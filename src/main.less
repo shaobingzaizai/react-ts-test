@@ -1,0 +1,11 @@
+@base-font-size: 16px;
+
+.px-to-rem (@px) {
+    @rem: @px / @base-font-size;
+    .rem(@rem)
+}
+
+body {
+    min-width: 1280px !important;
+    background-color: #E6E0CB;
+}

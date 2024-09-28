@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+src/components
+public
+china.js
+scripts
+config

@@ -1,0 +1,7 @@
+.idea
+build
+node_modules
+src/assets
+# src/components
+public
+.gitignore
